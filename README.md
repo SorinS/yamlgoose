@@ -74,7 +74,7 @@ package is needed.
   write.
 
 ```goose
-import yaml from "SorinS/yamlgoose@v0.7.0";
+import yaml from "SorinS/yamlgoose@v0.9.1";
 
 var doc: yaml::Node[>..] = [];
 var decoded: u8[>..] = [];
